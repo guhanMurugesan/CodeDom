@@ -1,0 +1,6 @@
+c:\users\guhan.murugesan\documents\visual studio 2012\Projects\CodeDom\CodeDom\bin\Debug\CodeDom.exe.config
+c:\users\guhan.murugesan\documents\visual studio 2012\Projects\CodeDom\CodeDom\bin\Debug\CodeDom.exe
+c:\users\guhan.murugesan\documents\visual studio 2012\Projects\CodeDom\CodeDom\bin\Debug\CodeDom.pdb
+c:\users\guhan.murugesan\documents\visual studio 2012\Projects\CodeDom\CodeDom\obj\Debug\CodeDom.csprojResolveAssemblyReference.cache
+c:\users\guhan.murugesan\documents\visual studio 2012\Projects\CodeDom\CodeDom\obj\Debug\CodeDom.exe
+c:\users\guhan.murugesan\documents\visual studio 2012\Projects\CodeDom\CodeDom\obj\Debug\CodeDom.pdb
